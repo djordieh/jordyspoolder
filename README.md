@@ -5,3 +5,4 @@
 - 📫 How to reach me ...
 
 - Hello i`m jordy a developer from the netherlands
+![NodeRNWeb](https://user-images.githubusercontent.com/77492385/169709174-11719d08-1397-4a66-82e0-61fab9d1841f.png)
